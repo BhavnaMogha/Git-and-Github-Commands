@@ -77,9 +77,7 @@
 # Git_Demo
 This is my first repository.
 # Coder
-Akash Deep 
-# Teacher
-Sharadha khapara
+Bhavna Mogha
 
 ## Thanks for visit..
 
